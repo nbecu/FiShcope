@@ -1,0 +1,4 @@
+id(Number);engin(nil);nomNavire(nil)
+1;a CormasNS.Models.FiShcope.PetitChalutier;Text for 'BIDULE'
+2;a CormasNS.Models.FiShcope.PetitFileyeur;Text for 'LE PTIT GREGORY'
+3;a CormasNS.Models.FiShcope.GrandFileyeur;Text for 'Coco'

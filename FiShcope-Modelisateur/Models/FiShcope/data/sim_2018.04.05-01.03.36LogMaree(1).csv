@@ -1,0 +1,9 @@
+joueurId(Number);tour(Number);carburant_consomme(Number);charges_carburant(Number);charges_salaire(Number);charges_autres(Number);charges_taxe(Number);produit(Number);remarques(String);dicoEspecePrix(nil);estLabellise(Boolean)
+nil;1;2608.2;1174;33198;14755;7377;73773;;Dictionary (#Sole->17.72 #Bar->22.5 #Seiche->4.19 #Merlu->2.75 );false
+nil;1;1195.2;538;0;0;0;0;;Dictionary (#Sole->17.72 #Bar->22.5 #Seiche->4.19 #Merlu->2.75 );false
+1;2;7711.21;3470;0;0;0;0;;Dictionary (#Sole->14.74 #Bar->13.59 #Seiche->3.78 #Merlu->3.3 );false
+2;2;1643.4;740;7000;6200;0;0;;Dictionary (#Sole->14.74 #Bar->13.59 #Seiche->3.78 #Merlu->3.3 );false
+1;3;1814.4;816;25416;11296;5648;56480;;Dictionary (#Sole->17.45 #Bar->20.81 #Seiche->5.8 #Merlu->3.2 );false
+2;3;1344.6;605;40811;18138;9069;90690;;Dictionary (#Sole->17.45 #Bar->20.81 #Seiche->5.8 #Merlu->3.2 );false
+1;4;2494.8;1123;22016;9785;4893;48925;tiki des mers;Dictionary (#Sole->17.3 #Bar->12.16 #Seiche->4.05 #Merlu->3.7 );false
+2;4;1344.6;605;43848;19488;9744;97440;de la sole de la sole;Dictionary (#Sole->17.3 #Bar->12.16 #Seiche->4.05 #Merlu->3.7 );false

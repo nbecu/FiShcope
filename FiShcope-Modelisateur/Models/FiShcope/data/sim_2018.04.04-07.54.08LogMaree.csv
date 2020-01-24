@@ -1,0 +1,5 @@
+joueurId(Number);tour(Number);carburant_consomme(Number);charges_carburant(Number);charges_salaire(Number);charges_autres(Number);charges_taxe(Number);produit(Number)
+nil;1;489.6;220;38570;17142;8571;85710
+nil;1;2381.4;1072;32279;14346;7173;71730
+1;2;1305.6;588;32774;14566;7283;72830
+2;2;7371.01;3317;30286;13461;6730;67303

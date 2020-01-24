@@ -1,0 +1,22 @@
+joueurId(Number);tour(Number);carburant_consomme(Number);charges_carburant(Number);charges_salaire(Number);charges_autres(Number);charges_taxe(Number);produit(Number);remarques(String);dicoEspecePrix(nil);estLabellise(Boolean)
+nil;1;448.8;202;33694;14975;7488;74875;;Dictionary (#Sole->17.72 #Bar->22.5 #Seiche->4.19 #Merlu->2.75 );false
+nil;1;5556.6;2500;25844;11486;5743;57432;;Dictionary (#Sole->17.72 #Bar->22.5 #Seiche->4.19 #Merlu->2.75 );false
+nil;1;2739.0;1233;9006;6200;2001;20013;;Dictionary (#Sole->17.72 #Bar->22.5 #Seiche->4.19 #Merlu->2.75 );false
+1;2;530.4;239;33463;14872;7436;74362;;Dictionary (#Sole->14.74 #Bar->13.59 #Seiche->3.78 #Merlu->3.3 );false
+2;2;6350.4;2858;32936;14638;7319;73192;;Dictionary (#Sole->14.74 #Bar->13.59 #Seiche->3.78 #Merlu->3.3 );false
+3;2;2016.9;908;63813;28361;14181;141807;;Dictionary (#Sole->14.74 #Bar->13.59 #Seiche->3.78 #Merlu->3.3 );false
+1;3;408.0;184;40325;17922;8961;89610;;Dictionary (#Sole->15.58 #Bar->21.86 #Seiche->4.4 #Merlu->3.2 );false
+2;3;4082.4;1837;28233;12548;6274;62740;;Dictionary (#Sole->15.58 #Bar->21.86 #Seiche->4.4 #Merlu->3.2 );false
+3;3;672.3;303;72354;32157;16079;160786;;Dictionary (#Sole->15.58 #Bar->21.86 #Seiche->4.4 #Merlu->3.2 );false
+1;4;612.0;275;38084;16926;8463;84630;;Dictionary (#Sole->18.0 #Bar->14.54 #Seiche->4.05 #Merlu->4.0 );false
+2;4;5443.2;2449;33027;14679;7339;73393;;Dictionary (#Sole->18.0 #Bar->14.54 #Seiche->4.05 #Merlu->4.0 );false
+3;4;1942.2;874;68940;30640;15320;153200;;Dictionary (#Sole->18.0 #Bar->14.54 #Seiche->4.05 #Merlu->4.0 );false
+1;5;734.4;330;30661;13627;6814;68136;;Dictionary (#Sole->18.62 #Bar->25.0 #Seiche->5.44 #Merlu->3.2 );false
+2;5;793.8;357;61949;27533;13766;137664;;Dictionary (#Sole->18.62 #Bar->25.0 #Seiche->5.44 #Merlu->3.2 );false
+3;5;846.6;381;75037;33350;16675;166749;;Dictionary (#Sole->18.62 #Bar->25.0 #Seiche->5.44 #Merlu->3.2 );false
+1;6;734.4;330;42692;18974;9487;94872;;Dictionary (#Sole->21.6 #Bar->16.5 #Seiche->4.86 #Merlu->4.63 );true
+2;6;1927.8;868;21805;9691;4846;48456;;Dictionary (#Sole->18.0 #Bar->13.75 #Seiche->4.05 #Merlu->3.86 );false
+3;6;2290.8;1031;48077;21367;10684;106837;;Dictionary (#Sole->21.6 #Bar->16.5 #Seiche->4.86 #Merlu->4.63 );true
+1;7;530.4;239;30002;13334;6667;66672;;Dictionary (#Sole->20.66 #Bar->30.0 #Seiche->6.66 #Merlu->3.84 );true
+2;7;1474.2;663;36427;16190;8095;80949;;Dictionary (#Sole->17.22 #Bar->25.0 #Seiche->5.55 #Merlu->3.2 );false
+3;7;946.2;426;64471;28654;14327;143268;;Dictionary (#Sole->20.66 #Bar->30.0 #Seiche->6.66 #Merlu->3.84 );true
